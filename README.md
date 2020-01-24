@@ -11,7 +11,6 @@ paine, lapte, oua
 paine, lapte, scutece, bere
 lapte, scutece, bere
 
-
 Fisier arff:
 
 @attribute 'paine' { t}
@@ -21,9 +20,10 @@ Fisier arff:
 @attribute 'bere' { t}
 @attribute 'carne' { t}
 @data
-t, t, ?, ?, ?, ?, 
-t, ?, t, t, t, ?, 
-?, t, t, ?, t, t, 
-t, t, ?, t, ?, ?, 
+t, t, ?, ?, ?, ?,
+t, ?, t, t, t, ?,
+?, t, t, ?, t, t,
+t, t, ?, t, ?, ?,
 t, t, t, ?, t, ?, 
 ?, t, t, ?, t, ?, 
+
