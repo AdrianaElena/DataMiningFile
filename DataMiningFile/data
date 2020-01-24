@@ -1,0 +1,13 @@
+@attribute 'paine' { t}
+@attribute 'lapte' { t}
+@attribute 'scutece' { t}
+@attribute 'oua' { t}
+@attribute 'bere' { t}
+@attribute 'carne' { t}
+@data
+t, t, ?, ?, ?, ?, 
+t, ?, t, t, t, ?, 
+?, t, t, ?, t, t, 
+t, t, ?, t, ?, ?, 
+t, t, t, ?, t, ?, 
+?, t, t, ?, t, ?, 
